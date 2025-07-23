@@ -56,8 +56,8 @@ Por fim, a imagem gerada foi analisada para verificar se todos os elementos esse
 O processo de criação combinou criatividade humana (na concepção e no detalhamento do prompt) com a capacidade técnica da IA generativa para transformar a ideia em uma obra visual consistente, respeitando estilo, formato e narrativa.
 
 ## 🚀 Resultados
-<img width="1024" height="1536" alt="ChatGPT Image 23 de jul  de 2025, 15_25_21" src="https://github.com/user-attachments/assets/68692fad-8201-4097-8664-ce2fa6a50c16" />
 
+![Nina Marvel](15-25-21.png)
 
 
 
