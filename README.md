@@ -57,7 +57,7 @@ O processo de criação combinou criatividade humana (na concepção e no detalh
 
 ## 🚀 Resultados
 
-![Nina Marvel](15-25-21.png)
+![Nina Marvel](nina-marvel.png)
 
 
 
